@@ -1,0 +1,6 @@
+Market Analysis Report
+=======================
+Overall Average Price: 95.31
+Overall Maximum Price: 148.97 (Stock: SCB)
+Overall Minimum Price: 42.51 (Stock: KBANK)
+Overall Price Standard Deviation: 29.16

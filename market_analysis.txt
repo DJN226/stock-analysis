@@ -1,6 +1,39 @@
 Market Analysis Report
 =======================
 Overall Average Price: 95.31
-Overall Maximum Price: 148.97 (Stock: SCB)
-Overall Minimum Price: 42.51 (Stock: KBANK)
+Overall Maximum Price: 148.97 (Stock: SCB on 2023-10-24)
+Overall Minimum Price: 42.51 (Stock: KBANK on 2024-01-21)
 Overall Price Standard Deviation: 29.16
+
+Stock-Specific Analysis:
+-------------------------
+Stock: AOT
+  Average Price: 91.12
+  Maximum Price: 142.63
+  Minimum Price: 45.07
+  Price Standard Deviation: 27.54
+
+Stock: CPALL
+  Average Price: 91.11
+  Maximum Price: 143.64
+  Minimum Price: 44.53
+  Price Standard Deviation: 28.82
+
+Stock: KBANK
+  Average Price: 99.35
+  Maximum Price: 143.67
+  Minimum Price: 42.51
+  Price Standard Deviation: 29.85
+
+Stock: PTT
+  Average Price: 94.67
+  Maximum Price: 144.73
+  Minimum Price: 46.00
+  Price Standard Deviation: 28.71
+
+Stock: SCB
+  Average Price: 100.29
+  Maximum Price: 148.97
+  Minimum Price: 47.11
+  Price Standard Deviation: 30.07
+

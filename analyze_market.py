@@ -53,10 +53,10 @@ def analyze_market():
         )
 
     # Save the report to a file
-    # with open('market_analysis.txt', 'w') as report_file:
-    #     report_file.write(report)
+    with open('market_analysis.txt', 'w') as report_file:
+        report_file.write(report)
 
-    # print("Market analysis report has been written to 'market_analysis.txt'.")
+    print("Market analysis report has been written to 'market_analysis.txt'.")
 
 if __name__ == "__main__":
     analyze_market()
